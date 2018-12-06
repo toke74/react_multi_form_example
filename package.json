@@ -1,9 +1,10 @@
 {
-  "name": "react-multi-form",
+  "name": "react_multi_form_example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.6.3",
+    "material-ui": "^0.20.2",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
   },
